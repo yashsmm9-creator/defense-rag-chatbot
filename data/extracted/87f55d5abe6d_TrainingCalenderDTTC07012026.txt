@@ -1,0 +1,141 @@
+--- PAGE 1 ---
+
+Proposed Training Schedule under Skill Development Program at DTTC in Year-2026 
+S/N Course/ Training Title Classification of Course Date & Duration Topics to be Covered Course Co-ordinator 
+I. 2
+. 
+AI/ ML applications in 
+Defence Sector 
+ 
+ 
+Basic 
+11-12 February 2026  
+(Wed & Thu) 
+02 Days 
+• Introduction to AI/ML in Defence 
+• Core Techniques in AI/ML 
+• AI/ML in Cybersecurity and Counterintelligence for Defence        
+• Hands-on 
+• AI/ML in Intelligence, Surveillance, and Reconnaissance (ISR)  
+• Application of AI/ML in Material Science    
+• AI/ML in Space Defence and Satellite Technology     
+•  Future of AI/ML in Defence 
+• Ethical and Legal Frameworks for AI/ML in Defence 
+DTTC, LUCKNOW 
+Landline No: 0522-2317591 
+ E-mail ID: kumar.atul.sag@gov.in 
+II. 3
+. 
+Electronic Systems 
+Design, Fabrication & 
+Realization (RF PCB/ 
+MMIC/IC) 
+ 
+Intermediate 
+23-24 April 2026 
+(Thu & Fri) 
+02 Days 
+• System Requirements & Architecture Planning  
+• Analog, Digital & Power Circuit PCB Design 
+• PCB Design Principles & Layout Practices 
+• Design Validation & Manufacturing Documentation 
+• PCB Fabrication Processes & Materials 
+• Assembly, Soldering & Workmanship Standards    
+DTTC, LUCKNOW 
+Landline No: 0522-2317592  
+E-mail ID: virendra.dlrl@gov.in 
+III. 4
+. 
+Emerging areas and 
+Challenges for Startups 
+and Entrepreneur in 
+Defence and Aerospace 
+ 
+ 
+Basic 
+18-19 June 2026 
+(Thu & Fri) 
+02 Days 
+• Introduction to Defence & Aerospace Startup Ecosystem  
+• Emerging Technology Areas in Defence & Aerospace  
+• Defence Procurement & Startup Entry Pathways  
+• Business Models & Go-To-Market Strategy  
+• Technical, Regulatory & Operational Challenges  
+• Funding, Investment & Government Support 
+• Infrastructure, Testing & Certification Facilities 
+• Case Studies of Successful Defence & Aerospace Startups 
+DTTC, LUCKNOW 
+Landline No: 0522-2317618  
+E-mail ID: rudresh.kumar.dmsrde@gov.in 
+IV. 5
+. 
+EMI/EMC: 
+Fundamentals, 
+Measurement, Testing 
+of Defence System 
+ 
+ 
+Advance 
+ 
+20-21 August 2026 
+(Thu & Fri) 
+02 Days 
+• Introduction to EMI/EMC in Defence sector 
+• EMI/EMC Standards & Compliance Requirements 
+• EMI Control at System & Subsystem Level 
+• EMI Mitigation Techniques in Defence Hardware 
+• MI/EMC Test Facilities & Instrumentation 
+• Conducted & Radiated Emission Measurements 
+• Susceptibility / Immunity Testing 
+• EMI/EMC Test Planning, Documentation & Reporting 
+DTTC, LUCKNOW 
+Landline No: 0522-2317592  
+E-mail ID: virendra.dlrl@gov.in 
+V. 6
+. 
+Drone and Anti -Drone 
+Technologies for 
+Strategic Sector 
+ 
+ 
+Advance 
+ 
+27-28 October 2026 
+(Tue & Wed) 
+02 Days 
+• Introduction to UAV / Drone Technologies 
+• Drone Architecture & Subsystem Overview 
+• Navigation, Communication & Payload Systems 
+• Autonomous Flight, Ground Control & Mission Planning 
+• Strategic & Defence Applications of Drones 
+• Drone Threat Landscape & Security Challenges 
+• Drone Detection & Tracking Technologies 
+• Anti-Drone Neutralization Techniques 
+DTTC, LUCKNOW 
+Landline No: 0522-2317594 
+E-mail ID: anksingh@gov.in 
+VI.  
+Composite Material: 
+Design, Fabrication & 
+Testing 
+ 
+ 
+ 
+Advance 
+ 
+17-18 December 2026 
+(Thu & Fri) 
+02 Days 
+• Fundamentals, Materials & Design of Composites 
+• Reinforcements & Matrix Materials 
+• Mechanical Behaviour & Failure of Composites 
+• Composite Laminate Design & Analysis 
+• Composite Fabrication Techniques 
+• Defects in Composites & Quality Control 
+• Mechanical Testing of Composite Materials 
+• Non-Destructive Testing (NDT) of Composites 
+• Defence and Aerospace Applications, Case Studies & Certification 
+DTTC, LUCKNOW 
+Landline No: 0522-2317617 
+ E-mail ID: akumar.dmsrde@gov.in 
+For registration, kindly submit the copy of your Affiliation ID, Aadhar ID and a recommendation letter from the concerned authority of your Institute/Industry etc. via email to the course coordinator

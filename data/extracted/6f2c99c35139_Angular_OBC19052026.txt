@@ -1,0 +1,665 @@
+--- PAGE 1 ---
+
+Angular-OBC
+Technology Overview
+1. Angular OBC unit is the primary processing unit of Vehicle which controls all the
+necessary sub-systems and operations of the vehicle.
+2. Hardware design of Angular OBC is based ASIC processor. The Angular OBC
+design consists of Analog I/Os, Discrete I/Os and Communications interfaces.
+3. Angular OBC is designed and developed by RCI, DRDO and IP rights are with
+RCI DRDO.
+4. ToT absorption certificate will be issued after successful realization of 1 unit and
+its  QT  completion.  ToT  absorption  certificate  is  mandatory  for  execution  of
+Supply orders.
+5. EOI is requested from competent firms for Fabrication, Assembly and Testing
+(Built-to-Print) of Angular OBC as part of TOT.
+6. The ToT terms and conditions are detailed below.
+Terms and Conditions
+1. Processing of EoI applications shall start after 21 days from the date of publication
+on DRDO website. 
+2. The firm’s turnover should be greater than  Rs 63  Cr per annum  for preceding
+consecutive three year period.
+3. Documents to be submitted with EoI. The firm must provide details about firm and
+documents in support of their claim as per Appendix- A. Any additional documents
+as  required  by  DRDO  shall  be  sought  based  on  request  received  from  the
+interested industries.
+4. a)  As  an  essential  criterion,  the  firm  should  have  demonstrated  capability  of
+development/ fabrication & assembly of Avionics Systems (similar to On-Board
+Computers (OBC), Integrated Avionics Unit (IAU) and Interface Unit (IU) qualified
+and delivered to Ministry of Defence/Defence Establishments / Public Sectors /
+Paramilitary Forces / any Government Agencies. In addition, prior experience in
+development/ fabrication of avionics systems with expertise in integration and
+handling should be possessed by the firm (SO copies for the delivery of similar
+systems should be provided with EoI).
+Page 1 of 17
+
+--- PAGE 2 ---
+
+b) Expertise in Avionics grade hardware development, testing and debugging
+based on Processors, FPGA, SoC with the following features is essential-
+(i)  High  speed  boards  with  processors  (frequency  of  operation:
+100MHz, 200MHz, up to 1GHz )
+(ii) Communication interface like Ethernet, MIL-STD-1553B, RS422
+(iii) Memory interface SRAM, FLASH etc.
+(iv) MIL grade/ IPC class-3 PCBs
+(v) FPGA and CPLDs (Xilinx, Altera etc.)
+For the above, Relevant Supply Order (SO) copies with technical specifications/
+Scope of work & Inspection / Acceptance Report (IR) copies (A minimum of 5 SO
+copies and associated IRs) of different types of subsystems and demonstration of
+such hardware. Systems/Sub-systems delivered on or after 01 January 2018 will
+only be considered.
+5. Previous  &  on-going  experience  of  delivery  of  similar  above  systems  with
+clearance by Defence QA  agencies like DGQA, MSQAA/R&QA, RCI, CQA etc. is
+essential. Relevant proof to be furnished.
+6. It is essential that the participating firms shall have ISO 9001:2015 and AS 9100D
+certification. Relevant proof to be furnished.
+7. The  participating  firms  shall  have  in-house  facilities  for  components  /  PCBs
+storage in controlled environments and facilities for environmental tests (Climatic
+and Dynamic test facilities). 
+   a) Mandatory In-house Facilities
+(i) Humidity Controlled Storage facility
+(ii) 40X Optical inspection system
+(iii) ESD Safe Manual Soldering and rework facility
+(iv) Controlled conformal coating facility
+(v) PCB cleaning facility
+(vi) ESD safe assembling and integration facility 
+(vii) Test  equipment  such  as  multi-meters,  oscilloscopes,  isolation
+testers with valid calibration certificate
+(viii) ESD safe Test bench for functional testing
+Page 2 of 17
+
+--- PAGE 3 ---
+
+      b) In addition to mandatory in-house facilities, industries having the following
+facilities shall be preferred in the following order over industries not having these
+facilities:
+(i) SMT line for complete automated reflow certified by any QA agencies
+of DRDO
+(ii) Climatic and Dynamic test facility with valid calibration certificates
+(iii) Inspection  systems:  3D  X-Ray,  Automated  Optical  Inspection
+equipment
+(iv) Pneumatic controlled conformal coating facility
+(v) Automated Aqueous cleaning facility for PCBs
+Relevant proof to be furnished for above.
+8. The Industry shall have experienced & skilled manpower for debugging, testing
+and  documentation  of  embedded  systems,  established  quality  management
+system, willingness and capability to setup specialized infrastructure.
+a) Minimum Manpower requirement for Hardware development and testing
+(i) Two Electronic Engineers B.E / B.Tech / M.Tech with minimum domain
+expertise of 3yrs for testing and debugging
+(ii) Two IPC certified Electronics/ Electrical Diploma / ITI persons
+(iii) One IPC certified QC Electronics Engineer B.E / B.Tech with minimum
+domain expertise of 3yrs 
+(iv) One  QC  Mechanical  Engineer  B.E  /  B.Tech  with  minimum  domain
+expertise of 3yrs
+(v) One Mechanical Diploma / ITI fitter for integration activity 
+b) Expertise  in  Documentation:  Preparation  and  maintaining  records  of  each
+stage involved in the realization of the Systems with QC approval such as line
+card / log books.
+Relevant proof to be furnished for above.
+9. The evaluation criteria given in Appendix-B - “Evaluation criterion for review by
+TAC” with supporting documents has to filled and submitted along with the EoI
+without which the EoI will not be considered.
+Page 3 of 17
+
+--- PAGE 4 ---
+
+10.The other terms and conditions are as per the ‘DRDO Policy for ToT’ and
+‘DRDO Procedures for ToT’ for Category ‘A’ posted on DRDO website.
+Contact Details 
+1. The desirous industries should send their Expression of Interest (EoI) to Director,
+RCI  on the following address:- 
+Director,
+Research Centre Imarat (RCI)
+Vignyana Kancha
+Hyderabad- 500 069
+Fax:040-24306002
+E-Mail: director[dot]rci[at]gov[dot]in
+Copy to (without attachments):- 
+Director, 
+Directorate of Industry Interface and Technology Management (DIITM), 
+Room No. 447, DRDO Headquarters, 
+DRDO Bhawan, Rajaji Marg,
+New Delhi- 110011. 
+Fax: 011-23793008.E-Mail: diitm[dot]hqr[at]gov[dot]in
+Page 4 of 17
+
+--- PAGE 5 ---
+
+Appendix-A
+List of support documents to be attached with EOI
+i. Memorandum and Articles of Association (Should be incorporated as per
+Indian Companies Act, as amended time to time) 
+ii. Certificates of registration as a manufacturing unit, if any. 
+iii. Audited Balance Sheet, turnover and net worth of the company for the
+preceding three years. 
+iv. Income Tax returns for the preceding three year period 
+v. Details of shareholding /ownership pattern especially foreign partners /
+shareholders,  foreign  employees,  directors,  etc.  The  company  must
+adhere to the prevailing Govt. of India policies and regulations on Foreign
+Direct Investment (FDI) / DIPP norms as applicable. 
+vi. Annual budget (if any) for R&D during last three years.
+vii. Numbers and details of IPR or patents, etc., held by the company. 
+viii. Number of technically or professionally qualified personnel and internal
+Quality Control team. 
+ix. Record  of  past  performance  (e.g.,  Supply  orders  executed  against  of
+Ministry of Defence orders, Public Sectors and Paramilitary Forces, if any).
+x. Availability  of  adequate  infrastructure  (List  of  machines  and  their
+production capacities) and technical expertise to fabricate, assemble and
+test the units. 
+xi. List of Testing and Support equipment
+xii. ISO & AS9100D certification or any other certification (if any).
+xiii. Relevant clearances from the authorities / ministries (if any). 
+xiv. Capacity and capability to undertake developmental work and to accept
+attendant financial and commercial risks.
+xv. Capacity / capability to market the product through the marketing network,
+sales and service network, reliability to maintain confidentiality. 
+xvi. PESO and DPIIT license for explosive handling if ToT is for high energy
+Material, explosives, propellants and component/system dealing with it etc.
+xvii. Undertaking  from  company  seeking  ToT  that  none  of  its  Directors,
+Independent  Directors,  non-executive  Directors,  and  Key  management
+personnel are involved in any corrupt practices, unfair means and illegal
+activities. 
+xviii. Details of the industrial license for defence manufacturing issued by DPIIT
+to be provided by the industry seeking ToTs. 
+Page 5 of 17
+
+--- PAGE 6 ---
+
+xix. Application cum Industry Assessment Form
+Application cum Industry Assessment Form
+All industries are requested to fill in the form given below and provide supporting
+documents (as applicable). Kindly provide the reference of page no. of supporting
+document in the relevant field of form. The list of documents to be attached is
+provided in Annexure – I. 
+P      A      R      T      -      1       
+General Information
+(Please enclose documents in support of information provided)
+S.No Information Detail Attachment
+reference
+1. Name of the Technology requested for 
+Technology Transfer (Technology 
+name and concerned Lab, Category)
+2. Name of the industry/ organization
+3. Complete Address and other details
+Registered Office
+State
+Phone No
+Fax
+Email
+Website
+Factory
+State
+Phone No
+Fax
+Email
+Website
+4. Point of Contact
+Name
+Designation
+Address
+Mobile No
+Ph No
+Email ID
+5. NAME OF CMD/ MD /PARTNERS/ 
+PROPRIETOR/ etc
+Name
+Designation
+Address
+Mobile No
+Page 6 of 17
+
+--- PAGE 7 ---
+
+Ph No
+Email ID
+6. Date of Incorporation of company
+7. Foreign Direct Investment in company 
+(if any in %)
+8. Shareholding pattern
+9. Turn over as per Audited Balance Sheet
+for the preceding three years.
+Year ____
+Year ____
+Year ____
+10. Annual budget for R&D during last 
+three years (if any)
+Year ____
+Year ____
+Year ____
+11. Income Tax returns for the preceding 
+three years period
+Year ____
+Year ____
+Year ____
+12. Nature of company
+DPSU, Private Limited, Public Limited, 
+Partnership, Proprietary, Ex- Serviceman 
+Unit
+13. Category of industry
+Large Scale, Medium Scale, Small Scale, 
+Micro, Startup
+14. MSME Registration No
+15. Certificates of registration as a 
+manufacturing unit, if any.
+16. If Startup, DPIIT Registration No
+17. UDYOG AADHAR No
+18. PAN Number
+19. Details of Industrial license for defence 
+manufacturing issued by DPIIT (if any)
+20. GST Number
+21. Nature of business
+Manufacturing/ Sole Selling or Authorized 
+Agent/ Assembler/ Traders/ Dealer/ 
+Processor/ Repacker/ Others
+22. Details of current products and 
+services
+Products and services Supplied (please 
+specify Govt/ Domestic market/ Export)
+23. Record of past performance
+(e.g., Supply orders executed against of 
+Ministry of Defence orders, Public Sectors 
+Page 7 of 17
+
+--- PAGE 8 ---
+
+and Paramilitary Forces, if any).
+24. Details of registration with
+NSIC / SSI, DGS&D, other Defence 
+Department, other Govt. Dept, 
+membership of FICCI/ASSOCHAM/CII or 
+other Industrial Association
+(Attach relevant copies of registration 
+letters)
+25. Have you already taken any technology
+from DRDO (If yes, give details attaching 
+separate sheet)
+Name of the Technology, Lab, Year, 
+License number & Status
+26. ISO/ ISI certification or any other 
+certification (If yes, give details)
+27. Relevant clearances form the 
+authorities/ ministries (if any)
+28. Capacity and capability to undertake 
+developmental work and to accept 
+attendant financial and commercial 
+risks.
+29. Capacity/capability to market the 
+product through the marketing 
+network, sales and service network, 
+reliability to maintain confidentiality.
+P      A      R      T      -      2  
+Infrastructure and other Information
+1. Total area of factory
+Covered (m2),
+Uncovered (m2),
+Bonded space available (m2)
+2. Ownership of factory
+Self-owned, partnership, rental
+3. Electric power
+Sanctioned
+Installed
+Standby (if any)
+4. Availability of adequate infrastructure
+(List of machines and their production capacities) and 
+technical expertise
+5. Name of bank & A/c No Name of bank
+A/c type
+A/c no
+Address of the bank
+Phone:
+Email:
+Page 8 of 17
+
+--- PAGE 9 ---
+
+6. Details of current products:
+S.No Type Description Licensed/installed 
+capacity
+Annual production for 
+preceding 3 years
+7. Details of foreign collaboration, if any
+S.No Product Name and address of collaborator Year Remarks
+8. Details of products developed for services
+S.No Nomenclature of stores Order No. and date Remarks
+9. Please give details of important facilities & infrastructure as 
+per following format for:
+(a) Production
+(b) Unconventional, special m/c
+(c) Testing & quality control facilities 
+S.No Description of
+m/c
+Make & model Qty Date of
+purchase
+Remarks
+10. Furnish  the following details with relevant certificates and
+documents
+(a) R&D facilities available :
+(b) Inspection quality control of raw material components :
+(c) Assistance from central agency for testing / calibration etc. :
+(d) laboratory and drawing office facility :
+11. Principal  customers:
+S. No Name & address S.O No and 
+date
+Date of last 
+supply
+Products 
+supplied
+Value
+12. Future plans (if any) in respect of expansion programme/ 
+installation of additional machines/ test facilities etc.
+13. Name of the technology requested for transfer
+(give self-assessment of your capability to absorb the technology)
+Page 9 of 17
+
+--- PAGE 10 ---
+
+14. Details of employee as on date on firm’s pay roll
+PERMANENT
+Category Post Held Number Qualification Total Service
+Technical Prod. Manager
+Q.C. Manager 
+Supervisor
+Testing Staff (QC)
+Skilled workers
+Unskilled workers, etc
+Administrative Purchase Manager
+Accounts Officer
+Office Superintendent
+Clerical
+Others, etc
+TEMPORARY
+Category Post Held Number Qualification Total 
+Service
+Technical Prod. Manager
+Q.C. Manager 
+Supervisor
+Testing Staff (QC)
+Skilled workers
+Unskilled workers, etc
+Administrativ
+e
+Purchase Manager
+Accounts Officer
+Office Superintendent
+Clerical
+Others, etc
+D      E      C      L      A      R      A      T      I      O      N       :
+I / we confirm that the information furnished in Part 1 & 2 above is 
+correct. In the event of any information given by me / us is found incorrect / 
+false at any time, I / we understand our EoI for ToT will be cancelled/ rejected
+without notice, beside any other appropriate action against me / us.
+Industry seal Authorized signatory
+Name(s) in capital
+Designation and seal of authorized 
+signatory
+date: 
+Place:
+Page 10 of 17
+
+--- PAGE 11 ---
+
+Appendix-B  
+Evaluation criterion for review by TAC
+I. The following checklist has to be filled and submitted along with the EOI 
+II. For the purpose of evaluation, the participating firm shall mean, the company/group of companies of Indian origin.
+III. For the purpose of evaluation, Systems/Sub-systems delivered on or after 01 January 2018 will only be considered.
+IV. The participating firm, if involves sub-contractors for Test facilities, they shall provide the full information (name, Address, 
+Turn-over, Product/Service subcontracted, certifications, SO copy etc.) of sub-contractors during the submission of EOI.
+Sl.no
+.
+Parameter Supporting Documents
+1. Expertise  in  Avionics  grade
+hardware development, testing and
+debugging  based  on
+Processors/FPGA/SoC  with  the
+following features
+Corresponding Details to be filled
+Relevant Supply Order (SO) copies with
+technical specifications/ Scope of work to
+be submitted
+No. of Purchase Orders executed and delivered for each of the following 
+systems
+High speed boards with Processor/SoC 
+operating frequency greater than 
+200MHz
+Communication  Interface  :  Ethernet,
+MIL-STD-1553B, RS422 etc
+Page 11 of 17
+
+--- PAGE 12 ---
+
+SRAM, FLASH Memory etc
+MIL grade/ IPC class-3 PCBs
+FPGA and CPLDs (Xilinx, Altera etc.)
+SDR Memory
+ADCs and DACs
+2. Manufacturing  Experience:
+Experience  in  manufacturing
+defense systems of similar type, No.
+of POs executed for similar type of
+product in last 5 years
+Corresponding Details to be filled
+Supply Order (SO) copies and associated
+delivery challan within last 5 years to be
+submitted
+No. of POs in last 5 years
+Specify Customer Names:
+No POs on similar type of Product
+3. Green  cards  from  Defense  QA/QC
+agencies  for  five  different  Sub-
+systems
+Corresponding Details to be filled  Defense QA/QC agencies issued Green
+Cards/ QC Inspection Reports/ Boarding
+Pass of five different sub-systems to be
+submittedNo. of Green cards
+4. ISO  9001:2015   and  AS  9100D
+certification
+Corresponding Details to be filled
+Valid certificate to be submitted
+Certificate Nos.
+5. Existing  Test  facilities  (In-house
+Manufacturing  capability
+(Mandatory facilities)
+Corresponding Details to be filled
+ Test Facility Specifications, Photos and
+calibration certificates
+Page 12 of 17
+
+--- PAGE 13 ---
+
+a) Humidity  Controlled  Storage
+facility
+b) 40XOptical inspection system
+c) ESD  Safe  Manual  Soldering
+and rework facility
+d) controlled  conformal  coating
+facility
+e) PCB cleaning facility
+f) ESD  safe  cable  assembling
+(harness) and integration facility
+g) Test equipment such as multi-
+meters,  oscilloscopes,  isolation
+testers  with  valid  calibration
+certificate
+6. Existing  Test  facilities  (In-house/
+sub-Contractor)
+Corresponding Details to be filled  Test Facility Specifications, Photos 
+and calibration certificates to be 
+submitted if in-house.
+ The participating firm, if involves sub-
+contractors for Test facilities, they shall
+provide the full information (name, 
+Address, Turn-over, Product/Service 
+subcontracted, certifications, SO copy 
+etc.) of sub-contractors during the 
+submission of EOI.
+a) SMT  line  for  complete
+automated  reflow  certified  by
+any QA agencies of DRDO
+b) Climatic  and  Dynamic  test
+facility  with  valid  calibration
+certificates
+c) Inspection systems: 3D X-Ray
+d) Inspection systems: Automated
+Optical Inspection equipment
+e) Pneumatic controlled conformal
+coating facility
+f) Automated  Aqueous  cleaning
+facility for PCBs
+g) Machining  and  Fabrication  of
+Page 13 of 17
+
+--- PAGE 14 ---
+
+Mechanical Chassis
+7. In-house  capability  of  testing,
+debugging  and  documentation  of
+similar embedded systems
+Corresponding Details to be filled
+Two  Electronic  Engineers
+B.E/BTech.  /MTech.  with  minimum
+domain  expertise  of  3yrs  for  testing,
+debugging and documentation
+Certificate by Firm to be submitted citing
+the  experience  details  duly  signed  by
+authorized signatory of the firm
+Automated Test Equipment for Cable
+Harnessing
+ATE  Specifications,  Photos  to  be
+submitted
+Automated Test Equipment for PCBA
+and Final Integrated Unit
+8. Existing Man power strength Corresponding Details to be filled Valid  IPC  certificates  to  be  submitted.
+Certificate by Firm to be submitted citing
+the  experience  details  duly  signed  by
+authorized signatory of the firm
+a) Internal Firm QC
+IPC certified QC with minimum 3years
+experience in relevant field
+Mechanical QC with B.E/BTech. With
+minimum 3yrs  experience in relevant
+field
+b)For PCBA and Cable Harnessing
+IPC  trainer  for  soldering
+process(JSTD001),  IPC  trainer  for
+Acceptance (IPC600/610/620)
+IPC  certified  operator  for  soldering
+process  (JSTD001),  IPC  trainer  for
+Acceptance (IPC600/610/620)
+IPC  certified  operator  for  soldering
+process  (JSTD001)  and  Acceptance
+(IPC600/610/620)
+c)For Mechanical chassis and Final integration activity
+Page 14 of 17
+
+--- PAGE 15 ---
+
+Mechanical  fitter  Diploma/ITI  with
+minimum 3yrs experience in relevant
+field
+9. DIIPT License Corresponding Details to be filled a)  Valid  Defense  License  issued  by
+DPIIT.  This  category  includes  all
+electronic  sub-systems  of  on-board
+avionics which are On-Board Computer,
+Interface  Unit(M/L),  Launch  Processor
+Unit,  Navigation  Processing  System,
+Control and guidance electronics for on-
+board  applications,  Integrated  Avionics
+units.
+b)  The  supply  order  of  Avionic  sub-
+system  corresponding  to  the  year
+mentioned  in  DPIIT  License  along  with
+detailed  technical  specifications  of  the
+sub-system to be submitted.
+c) If applied for DPIIT License, mention
+time frame by which it will be available
+Relevant DPIIT License
+Applied, Not Applied or Not submitted
+10. On-time Delivery: Delivery of similar
+product  executed  within  PDC  of
+original Purchase Order (PO)
+Corresponding Details to be filled
+No extension for last 5 POs within last
+5 years
+ S.O, delivery challan and PDC extension
+letter copies
+11. Already involved in development of
+the same Sub-system mentioned in
+EOI and completed its Qualification
+Testing (QT)
+Page 15 of 17
+
+--- PAGE 16 ---
+
+i)Yes/No
+ii)If  Yes,  QT  Completed  or  not
+completed
+and QC letter approval No.
+SO copy, Green card (QC clearance) and
+QT Conformance report to be submitted
+12. Experience  in  Sensor  block
+Calibration
+Number  of  sub-systems  for  which
+calibration carried out
+SO copy involving calibration of sensors,
+number  of  sub-systems  for  which
+calibration carried out.
+13. Banned/black-listed  from  any
+Central  Govt./State  Govt./UT
+organization.  The  applicant  firm
+should not be bankrupt.
+Self-Certificate  to  this  effect  with  duly
+signed by authorized signatory of the firm
+V. The following annexures should be enclosed otherwise the Firm will not be considered for ToT
+Sl.No. Technical Parameters Supporting Documents
+Enclosed in Annexure
+reference no.
+Supporting Documents 
+as mentioned above
+1 Expertise  in  Avionics  grade  hardware
+development, testing and debugging based
+on Processors/FPGA/SoC
+Annexure-I Enclosed/not enclosed
+2 Manufacturing  Experience:  Experience  in
+manufacturing defense systems of similar
+type, No. of POs executed for similar type
+Annexure-II Enclosed/not enclosed
+Page 16 of 17
+
+--- PAGE 17 ---
+
+of product in last 5 years
+3 Green cards from Defense QA/QC agencies Annexure-III Enclosed/not enclosed
+4 ISO 9001:2015  and AS 9100D certification Annexure-IV Enclosed/not enclosed
+5 Existing  Test  facilities  (In-house
+Manufacturing  capability  Mandatory
+facilities)
+Annexure-V Enclosed/not enclosed
+6 Existing  Test  facilities  (In-house/  sub-
+Contractor)
+Annexure-VI Enclosed/not enclosed
+7 In-house capability of testing, debugging 
+and documentation of similar embedded 
+systems
+Annexure-VII
+Enclosed/not enclosed
+8 Existing Man power strength Annexure-VIII (a,b,c) Enclosed/not enclosed
+9 Relevant DPIIT License Annexure-IX Enclosed/not enclosed
+10 On-time  Delivery :  Delivery  of  similar
+product  executed  within  PDC  of  original
+Purchase Order (PO)
+Annexure-X
+Enclosed/not enclosed
+11 Already involved in development of the 
+same Sub-system mentioned in EOI and 
+completed its Qualification Testing (QT)
+Annexure-XI
+Enclosed/not enclosed
+12 Experience in Sensor block Calibration Annexure-XII Enclosed/not enclosed
+13 Banned/black-listed from any Central 
+Govt./State Govt./UT organization. The 
+applicant firm should not be bankrupt.
+Annexure-XIII
+Enclosed/not enclosed
+Page 17 of 17

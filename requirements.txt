@@ -1,0 +1,9 @@
+streamlit
+openai
+python-dotenv
+chromadb
+langchain
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+huggingface-hub

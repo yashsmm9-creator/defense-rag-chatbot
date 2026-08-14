@@ -1,7 +1,5 @@
 venv/
 .env
-vectorstore/
-data/
 __pycache__/
 *.pyc
-.vscode/
+.streamlit/secrets.toml

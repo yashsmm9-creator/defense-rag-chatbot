@@ -1,0 +1,92 @@
+--- PAGE 1 ---
+
+Application for Booking the Services of SCC, CEMILAC 
+1 Name of the Organization that wants to use SCC : 
+Contact Person from the organization responsible 
+for SCC usage : 
+3 Address, Telephone Number and E mail id of the 
+Contract person: 
+4 Name and designation of people that require 
+entry to SCC: 
+5 Name of the project for which SCC to be used : 
+6 Certifying RCMA and Dealing Officer : 
+7 Type of Analysis to be carried out : 
+8 Tool required (Optional). If this is not mentioned, 
+available tool suitable for activities mentioned in 
+para 7 will be allocated by the centre : 
+9 Duration (No. of days) for which the Appointment 
+is required : 
+10 Confirmation Availability of all the Pre-requisite Yes /No 
+information as per Annexure 1: 
+11 Criterion for selection/prioritization for allocation | (i) First generation MSME 
+of resources: (Y/N): 
+{ii) Product of National 
+importance or urgency 
+(Y/N): 
+(iii) For immediate use in 
+services (Y/N): 
+Undertaking by the Applicant 
+|, hereby undertake that the usage of SCC for technical analysis of the above Project only 
+and if | get the permission from CE(A), CEMILAC to use the facilities at CEMILAC premises, 
+my team will abide by all the rules and regulations and security instructions of CEMILAC. | 
+also declare that | take the full responsibility of the Analysis results and indemnify CEMILAC 
+and its personnel from any legal consequences arising from the above work. In case of any 
+damage to the software or any other CEMILAC assets, | will abide to the decision given by 
+CEMILAC management. 
+Signature of Applicant : 
+Name with Designation & Date: 
+Application No.: SCC/ ss /yyyy For Office Use Only 
+Date & Time Allotted: oo... CO veeseesesserseesesseeeeees 
+Head SCC 
+Recommended / Not Recommended Security & Vigilance clearance 
+RD / GD/ Director GD (MS) 
+Approval by Chief Executive (A), CEMILAC 
+Approved / Not Approved 
+Chief Executive (A), CEMILAC 
+
+--- PAGE 2 ---
+
+Annexure 1 
+Pre-requisite Technical Information Required for SCC Usage 
+Currently, the tools available in SCC are given below with necessary pre-requisites: 
+b. Overall quality of code 
+(Clarity, Maintainability, 
+Testability) 
+2. Run-time error identification 
+3. Unreachable code identification 
+Purpose Tool name | Vendor Ver no. | Pre-requisite 
+1. Requirement Analysis: DOORS IBM 9.6.0.0 | SRD, FRD, STD/ 
+a. Traceability to Test SVCP (in .doc file 
+document format) 
+b. Impact Analysis 
+c. Regression test cases 
+determination 
+1. Static Analysis of C/C++: LDRA LDRA 10.1.0 Source code 
+a. Code Compliance 
+(MISRA C/C++ or other 
+rules) 
+b. Metrics on code 
+(Complexity, ELOC, 
+Nesting depth) 
+c. Overall quality of code 
+(Clarity, Maintainability, 
+Testability) 
+2. Dynamic Analysis of C/C++: 
+a. Structural coverage 
+i. Statement 
+ii. Branch/Decision 
+iii, MCDC 
+3. Unit Testing 
+. Integration Testing 
+1. Static Analysis of C/C++: Understand | SCI 6.4 Source code 
+a. Code comprehension 
+b. Flow graphs 
+c. Data coupling 
+d. Control coupling 
+e. Architecture correctness 
+f. Dictionary of variables 
+and procedures 
+1. Static Analysis of C/C++: PolySpace | MathWorks | R2023b | Source code 
+a. Code comprehension R2023a 
+Note: Any necessary pre-requisites that are brought for SCC usage are not to be left in SCC. 
+It needs to be taken back by the applicant.
