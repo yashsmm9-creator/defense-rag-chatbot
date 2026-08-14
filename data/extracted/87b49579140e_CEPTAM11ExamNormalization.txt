@@ -1,0 +1,59 @@
+--- PAGE 1 ---
+
+ 
+कािम�क प्रितभा प्रबंधन क � द्र  
+मेटकॉफ हाउस िद�ी-110054  
+र�ा अनुसंधान एवं िवकास संगठन (डीआरडीओ) 
+र�ा मंत्रालय, भारत सरकार    
+ 
+अिधसूचना  
+CEPTAM-11 परी�ा म� अंकों का सामा�ीकरण (Normalisation) 
+सभी संबंिधत ���यों की जानकारी हेतु यह सूिचत िकया जाता है िक CEPTAM-11 क े  STA-B पद क े  िलए िटयर-1 की 
+परी�ाए ं  िविभ� पािलयों (Shifts) म� आयोिजत की गईं थी ं । 
+चूंिक परी�ाए ं  िविभ� पािलयों (Shifts) म� आयोिजत की गई थी ं, इसिलए प्र� पत्रों क े  किठनाई �र म� अंतर होने की संभावना 
+थी । ऐसी िभ�ताओं क े  प्रभाव को कम करने तथा सभी अ�िथ�यों क े  साथ िन��ता सुिनि�त करने क े  िलए Equipercentile 
+Method (Multi – Reference) क े  आधार पर अंकों  का सामा�ीकरण (Normalization) अपनाया गया है, तािक 
+िकसी भी अ�ाथ� को आवंिटत पाली (Shift) क े  कारण कोई लाभ या हािन ना हो ।  
+िटयर-1 परी�ा क े  प�रणाम Equipercentile Method (Multi – Reference) �ारा अंकों को सामा�ीकरण 
+(Normalisation) क े  प�ात घोिषत िकए गए ह� ।  
+इस प्रकार सामा�ीक ृ त (Normalised) अंकों का उपयोग िनधा��रत �ूनतम यो�ता मानदंडों क े  अनुसार पात्रता िनधा��रत 
+करने क े  साथ-साथ यो�ता सूची तैयार करने क े  िलए िकया गया है ।  
+चूंिक Technician-A पद क े  िलए िटयर-1 परी�ा क े वल एक ही पाली (Shift) मे आयोिजत की गई थी, इसिलए उसक े  िलए 
+अंकों क े  सामा�ीकरण की आव�कता नहीं थी ।  
+CEPTAM-11 भत� प्रिक्रया म� जहाँ भी आव�कता होगी, अंकों क े  सामा�ीकरण की यही प�ित अपनाई जाएगी ।  
+स ा म ा � ी क र ण प्र ि क्र य ा  त थ ा  उ स स े प्र ा �  अ ंक ों  क े  स ंब ंध  म े CEPTAM का िनण�य अंितम होगा और सभी अ�िथ�यों पर 
+बा�कारी होगा ।   
+  
+
+
+--- PAGE 2 ---
+
+ 
+CENTRE FOR PERSONNEL TALENT MANAGEMENT 
+METCALFE HOUSE DELHI-110054 
+DEFENCE RESEARCH & DEVELOPMENT ORGANISATION (DRDO) 
+MINISTRY OF DEFENCE, GOVERNMENT OF INDIA 
+______________________________________________________________
+____ 
+NOTIFICATION 
+Normalization of Scores in CEPTAM-11 Examinations 
+ 
+It is hereby notified for the information of all concerned that the CEPTAM -11 Tier-I 
+examinations were conducted in multiple shifts for STA-B post. 
+Since the examinations were conducted in different shifts, there may have been 
+variations in the difficulty level of the question papers. To ensure fairness and to 
+minimize the impact of such variations, normalization of marks using the 
+Equipercentile Method (Multi-Reference) has been adopted so that no candidate gets 
+any advantage or disadvantage on account of the shift allocated to them. 
+The results of the Tier-I examination have been declared after normalization of scores 
+using the Equipercentile Method (Multi-Reference). 
+The normalized scores so obtained have been used for determining eligibility against 
+the prescribed minimum qualifying criteria as well as for preparing the merit list. 
+Since Tier -I examination for Technician- A post was conducted in single shift, 
+normalization of scores was not required. 
+Same method of normalization of scores will be adopted, wherever required for 
+CEPTAM-11 recruitment cycle. 
+The decision of CEPTAM regarding the normalization process and the resultant scores 
+shall be final and binding on all candidates. 
+ 
+*****

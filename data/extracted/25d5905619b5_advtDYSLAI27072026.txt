@@ -1,0 +1,309 @@
+--- PAGE 1 ---
+
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+Ref. No.: DYSL-AI/JRF/HR/2026-27/01                                           DATE: 23rd July 2026 
+ 
+Advertisement for the Award ofJunior Research Fellowship (JRF) 
+ DRDO Young Scientist Laboratory - Artificial Intelligence (DYSL-AI) is constituted of young scientists 
+who work towards research and development in the field of Artificial Intelligence. DRDO Young Scientist 
+Laboratory-Artificial Intelligence (DYSL -AI) is at the forefront of artificial intelligence research, accelerating 
+adoption of artificial intelligence for varied applications. The lab has associations with various eminent 
+organizations such as IITs, IISc Bangalore, IIIT’s and other leading academic institutions. 
+ We are looking for young and meritorious Indian nationals, who desire to pursue AI related research 
+as Junior Research Fellow (JRF) and join the revolution, using deep learning, natural language processing 
+(NLP), computer vision  and reinforcement learning to help us improve various research outcomes and drive 
+innovation. At DYSL- AI, you will join a multidisciplinary team helping to shape our AI strategy and 
+showcasing the potential of AI for defense through early -stage solutions. This is an excellent opportunity to 
+take advantage of emerging trends and technologies to make a real difference.  
+ 
+The eligibility criteria and desired qualifications is as under: 
+ 
+SL 
+No 
+Title of 
+Fellowship 
+Minimum eligibility Criteria Desirable Qualification 
+ 
+No of 
+vacancies 
+1 Junior 
+Research 
+Fellow  
+Graduate degree in 
+professional course 
+(B.E/B.TECH) in first 
+division with NET/GATE 
+ 
+(OR) 
+ 
+Post Graduate degree in 
+professional course 
+(M.E/M.TECH) in first 
+division both at Graduate 
+and Post Graduate level 
+ 
+(OR) 
+ 
+Post graduate degree in 
+Basic Science in first 
+division with NET 
+Qualification 
+ 
+a. Strong fundamentals in problem 
+solving, algorithm design and 
+complexity analysis 
+b. Expert in at least one major 
+programming language (Python, Java, 
+C++ or similar) 
+c. Knowledge of classical AI 
+algorithms, Machine Learning  and 
+Deep Learning techniques is strongly 
+desirable. 
+d. Proven experience with software 
+libraries such PyTorch, Tensorflow, 
+Keras, TensorRT,PyTorchMobile. 
+Either one of the following: 
+i. Comprehensive knowledge of 
+speech and language technology, 
+including speech recognition and 
+natural language understanding/  
+NLP/ Machine Translation.  
+(OR) 
+ii. Comprehensive knowledge of 3D 
+Vision and Simultaneous Mapping 
+and Localization (SLAM), ROS. 
+(OR) 
+iii. Comprehensive knowledge of 
+Computer Vision including 
+Generative Models. 
+(OR) 
+iv. Comprehensive knowledge of 
+Reinforcement Learning 
+ 
+04 
+ 
+ 
+द ू रभाष: 080 2201 7707/7709 
+Phone   :080 2201 7707/7709 
+ 
+फ़ै �:  (०८०) २२३४२४४४ 
+Fax     :  (080) 2234 2444 
+ 
+E-mail: accounts.dysl-ai@gov.in 
+भारतसरकार, र�ामंत्रालय 
+Government of India, Ministry of Defence, 
+र�ाअनुसंधानऔरिवकाससंगठन 
+Defence Research & Development Organisation 
+डीआरडीओयुवावै�ािनकप्रयोगशाला, क ृ ित्रमबु��म�ा 
+DRDO Young Scientist Lab-Artificial Intelligence 
+डॉराजारम�ाकॉम्�े�, 
+Dr. Raja Ramanna Complex, Raj Bhavan Circle 
+हाईग्राउंड्स, ब�गलु�-५६०००१,भारत 
+High Grounds, Bengaluru-560001, INDIA  
+ 
+ 
+ 
+
+
+--- PAGE 2 ---
+
+ 
+ 
+ 
+1. Upper age limit: 28 years as on the date of interview. Age and Educational qualification will be 
+calculated / determined as on last date for submission of Application. Age limit is relaxable  by 5 
+years for SC/ST, 3 years for OBC candidates.  
+ 
+2. Emolument: Stipend of Rs.37,000/- per month plus HRA as applicable (at present 30%). Hence, 
+total emoluments will be Rs. 48,100/- .  Based on the availability, accommodation can be 
+provided, in which case, HRA will be deducted.  
+ 
+3. Tenure: Candidate will work initially for first two years as JRF and will subsequently be elevated 
+as SRF for the remaining two/three years, subject to satisfactory performance to be assessed 
+annually and as per DRDO rules. 
+ 
+4. Candidates working in Govt./Public Sector Undertaking/Autonomous Bodies should apply 
+through proper channel. They are required to submit a signed declaration (Annexure ‘II’) to 
+the extent that they have informed their Cadre Controlling Authority (CCA) about their 
+application for the fellowship in DRDO and required to produce a “No Objection Certificate” 
+from their CCA as per Annexure ‘III’ at the time of interview. 
+ 
+5. The Offer of fellowship is purely of temporary in nature for a limited period as per rules in vogue 
+and does not confer any right for absorption in DRDO.  
+ 
+6. Those who were already awarded JRF position in any of the DRDO Laboratories/centers earlier, 
+are not eligible to apply again. 
+ 
+7. Candidate need to attach the proof of CGPA to percentage conversion formula from the 
+University/Institution along with the application form. 
+ 
+8. The Research Fellowship may be terminated at any time during the tenure with a prior notice of 
+one month. Fellows may resign with a prior notice of one month. 
+ 
+9.  DYSL-AI, Bengaluru reserves the right to amend, modify or cancel this advertisement. The above 
+notified fellowships are likely to be increased or decreased or cancelled depending upon the 
+prevailing requirement restrictions, if any, as per the policy of Government of India. 
+ 
+10. The detailed advertisement with application form and other specimen formats are available in the 
+website www.drdo.gov.in (> What’s New > Application for the post of JRF at DYSL-AI, Bangalore).  
+ 
+11. It may please be noted that offer of fellowship does not confer on fellows any right for 
+absorption in DRDO. 
+ 
+12. Application procedure: Eligible candidates may send their dul y completed applications as per 
+details below: 
+ 
+i) Duly filled application(Annexure -1 ) downloadable from www.drdo.gov.in
+ 
+ii) NoC & other testimonials as applicable in case of serving candidate (Annexure – II & 
+Annexure – III) downloadable from www.drdo.gov.in 
+iii) CV 
+iv) Self attested copies of educational certificate  
+v) Self attested copies of DOB,  
+vi) Self attested copy of caste certificate (Wherever applicable) 
+ 
+The application completed in all respect as above needs to be sent to “The Director, DRDO Young 
+Scientist Lab -Artificial Intelligence , Dr. Raja Ramanna Complex, Raj Bhavan Circle, High Grounds, 
+Bengaluru-560001” or the scanned copies can be sent by mail toaccounts.dysl-ai@gov.in 
+ 
+13. Last Date:   The last date for receipt of application at DYSL- AI is 21 days from the date of 
+publication in Employment News or before 14th August 2026 (which ever is earlier).  Applications 
+received after due date for whatsoever reasons, shall not be entertained.  Incomplete applications are 
+liable to rejected. 
+ 
+Candidates sending application by post should write in bold letters “Application for JRF 
+recruitment’ on TOP of the cover of envelope. 
+ 
+ 
+
+--- PAGE 3 ---
+
+ 
+ 
+ 
+ 
+Selection Process: 
+  
+Eligible candidates will be shortlisted on the basis of GATE score/ percentage of marks obtained in the 
+qualifying degree. 
+ 
+The short listed candidates will be required to appear for personal /on-line interview to be held at 
+DRDO Young Scientist Laboratory - Artificial Intelligence (DYSL- AI) Dr. Raja Ramanna Complex, Raj 
+Bhavan Circle, High Grounds, Bengaluru- 560001 or through Video Conferencing as decided by 
+Director, DYSL-AI, date and time will be communicated to the shortlisted candidates separately 
+by speed post/email.  The decision of the Director as to whether in person interview of through 
+Video conferencing will be final and binding on the candidates.  
+ 
+The decision of the committee constituted by Director, DYSL -AI in selecting the candidate will be final 
+and binding on all the candidates. 
+ 
+Important Instructions: 
+ 
+Only those candidates who have been awarded Degree/Provisional Degree certificate are eligible to 
+apply. 
+ 
+Candidates should make their own arrangement for their stay and transport in Bangalore. 
+ 
+Candidate need to produce original Certificates/Testimonial for proof of Caste (Where applicable), 
+Age, Educational Qualification and No Objection Certificate (Where applicable), along with two pass 
+port size photographs at the time of interview. 
+ 
+Award of Fellowship shall not be claimed by any candidate as a matter of right. The selection of the 
+candidate will be entirely the discretion of the Selection Committee of the Lab.   
+ 
+The candidate should bring supporting document for CGPA conversion. 
+ 
+The candidate may be allowed to register for part -time Ph.D with any University/Institution during the 
+tenure of the fellowship on approval of DYSL-AI. 
+ 
+No TA/DA will be paid for attending the interview or for joining, if selected. 
+ 
+DYSL-AI, Bangalore is situated at Dr. Raja Ramanna Complex, Raj Bhavan Circle, High Grounds, 
+Bengaluru-560001, 
+ 
+For details contact DYSL-AI between 1000 to 1700 hrs on all working days (Monday to Friday) on 080-
+2201 7707/7709. 
+ 
+ 
+ 
+(RAHUL RAI)Sc `D’ 
+         Team HR 
+ For Director   
+ 
+
+--- PAGE 4 ---
+
+Annexurel 
+APPLICATION FOR RESEARCH FELLOWSHIP IN DRDO 
+1. Name (in Block letters)
+2. Father's / Husband's Name
+Paste recent 
+photograph 
+3. (a) Marital Status (Married / Single): _____ _ (b) Nationality: ________ 
+4. (a) Category (GEN/SC/ST/OBC/PH/3rd Gender): (b) DoB: ______ 
+(c) Age as on date of application: Years ____ Months ____ Days ____ 
+5. Address for Communication:
+State: Pin Code: ______ _ 
+Contact details: Landline (with STD code) ___________ Mobile No.: _________ _ 
+Email address: ___________________________ _ 
+6. Permanent Residential Address: ___________________________ _
+State: _____________ _ Pin Code: _______ _ 
+7. Educational Qualification (from SSC/Matric onwards; Self-attested copies to be enclosed)
+Exam passed Subject(s) University/Board
+8. Experience:
+Name of the organisation Period of Service 
+From 
+9. Whether Qualified in UGC/CSIR/NET/GATE Examinations: YES / NO
+If yes, give details (proof to be enclosed)
+To 
+10. Have you ever been interviewed in any DRDO Unit, please give details: YES / NO
+Year of Division/ 
+passino Class 
+Reasons for leaving 
+(Note: Candidates already awarded JRF positions in any of the DRDO Units earlier are not eligible to apply again)
+11. Any other information:
+DECLARATION: I hereby declare that the above particulars furnished are correct and no information is suppressed. 
+Place: 
+Date: 
+%Marks 
+(Signature of the candidate) 
+
+--- PAGE 5 ---
+
+ 
+Annexure II 
+DECLARATION REGARDING INTIMATION TO CADRE CONTROLLING AUTHORITY(CCA)  
+ 
+Certified that I ,  _________________________________ is working as __ _____________________ in the office 
+of __________________________________ on * regular / ad -hoc / contract basis since ________________ in Pay Band 
+Rs. ________________________ with Grade Pay of Rs.______________ / on consolidated Salary Rs._______________ 
+per month 
+ Also certified that I have my Cadre Controlling Authority(CCA) that I am applying for the post of  
+___________________________ at DYSL-AI, Bangalore. 
+ 
+(* strike-out whichever not applicable)      (Signature of the candidate)  
+ 
+ 
+ 
+ 
+ 
+           Annexure III 
+ 
+NO OBJECTION CERTIFICATE 
+ 
+Certified that Mr /Mrs  ______________________________ is working as ____________ in this office on * 
+regular / ad -hoc / contract basis since ________________ in Pay Band Rs. ________________________ with Grade 
+Pay of Rs._________________ / on consolidated Salary Rs._________________ per month 
+ 
+ This office has No objection to his /her candi dature being considered for appointment to 
+the post of _____________________________ at DRDO. If selected, he / she will be relieved of his / her duties in 
+accordance with the terms of his / her appointment. 
+ 
+(* strike-out whichever not applicable)       (Signature of the candidate)

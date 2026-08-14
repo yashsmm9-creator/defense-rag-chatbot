@@ -1,0 +1,406 @@
+--- PAGE 1 ---
+
+Page 1 of 7 
+ 
+ 
+Technology Name: Advanced Instant Fire Detection and Suppression System (AIFDSS) 
+ 
+Necessity: When Armour piercing projectile penetrates Armour and passes through the fuel 
+tank or the hydraulic lines, a portion of the fuels or hydraulic fluid is always carried into the 
+crew compartment under high pressure and in atomized form. The result is a potentially 
+explosive atmosphere that can be ignited b y the hot edges of the impact point or by hot 
+fragments. The ball of flame caused by the rapid combustion fills the entire crew 
+compartment resulting extremely high temp and pressure. 
+In the engine compartment when engine temperature rises above 120°C then  engine 
+overheat condition is required to come through audio and visual indication and above 140°C 
+engine fire condition is required to come along with automatic actuation of fire extinguisher  
+to extinguish fire. 
+Solution:  Detection of fire is required to  be achieved within 20ms and 90% extinguishant is 
+required to  be released  within 60ms to achieve a total fire out time of 130 ms in crew 
+compartment. This can  save the crew and AFV both from over temperature and pressure . 
+However in the engine compartment fire wire detectors can give a large volume fire coverage 
+along with a total fire out time of 10 sec 
+CFEES has indigenously developed a very fast operating, highly rugged and Advanced 
+Reduced Instruction Set Computer Machine (ARM) based Advanced Instant Fire Detection 
+and Suppression System (AIFDSS) for armoured fighting vehicles. The developed system is 
+completely indigenous and capable of giving even better performance as compared to the 
+imported systems. 
+The system comprises Smart IR detector (SIRD)  for incipient stage fire  detection in crew 
+compartment, displ ay and power supply unit (DPSU) , Alarm cum flasher unit (AFU),  fire 
+wire, fire wire interface unit (FWIU) , fire extinguisher interface unit (FEIU) and squib 
+operated automatic fire extinguisher to achieve the total fire  out time 130ms in crew 
+compartment and 10 sec in the engine compartment. 
+System has  a dual communication protocol for every data transfer along with a fire data 
+storage memory of last 200 fire event s. IP66 and IP68 class of Ingress protection for sub -
+unit a nd a Halon 1301 alternative gas for engine compartment is available in the system.  
+System compl ies with EMI/EMC as per MIL461G, Climatic and durabi lity test as per JSS 
+55555 and recommended life is 15 years.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 2 ---
+
+Page 2 of 7 
+ 
+1. Industries are requested to submit their expression of Interest for ToT within 21 
+days of publishing of technology on DRDO web -page. Interested companies/ 
+industries are requested to apply against this EoI to following address:- 
+ 
+To, 
+ 
+The Director 
+Centre for Fire, Explosive and Environment Safety (CFEES) 
+Brig. S.K. Mujumdar Marg, Timarpur-Delhi-110054 
+E-mail: director.cfees@gov.in 
+Ph:011-23907321 
+Fax No: 011-23819547 
+ 
+2.  A copy of interest may be sent to the following address without any attachment:- 
+ 
+To,  
+The Director, 
+Directorate of Industry Interface & Quality Management (DIIQM), 
+Room No. 447, DRDO Bhawan, Rajaji Marg, New Delhi-110 011 
+E-mail: diitm.hqr@gov.in 
+Phone No. 011-23007446 
+Fax-011-23793008 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 3 ---
+
+Page 3 of 7 
+ 
+Annexure-II to Appendix ‘D’ 
+ 
+ 
+All industries interested in seeking ToT are requested to apply in the fo rmat given below. 
+Kindly fill in the fields. The list of documents to be attached is provided in Annexure – I. Kindly 
+provide the reference of page no. of supporting document in the relevant field of form. 
+PART-1  
+General Information 
+(Please enclose documents in support of information provided) 
+1.  Name of the Technology requested for 
+Technology Transfer (Technology name and 
+concerned Lab, Category) 
+ 
+2.  Name of the industry/ organization  
+3.  Complete Address and other details  
+Registered Office 
+State 
+Phone No 
+Fax 
+Email 
+Website 
+ 
+Factory 
+State 
+Phone No 
+Fax 
+Email 
+Website 
+ 
+4.  Point of Contact  
+Name 
+Designation 
+Address 
+Mobile No 
+Ph No 
+Email ID 
+ 
+5.  NAME OF CMD/ MD /PARTNERS/ 
+PROPRIETOR/ etc  
+Name 
+Designation 
+Address 
+Mobile No 
+Ph No 
+Email ID 
+ 
+6.  Date of Incorporation of company  
+7.  Foreign Direct Investment in company (if 
+any in %) 
+ 
+8.  Shareholding pattern  
+9.  Turn over as per Audited Balance Sheet for 
+the preceding three years. 
+Year ____ 
+Year ____ 
+Year ____ 
+ 
+10.  Annual budget for R&D during last three 
+years (if any) 
+Year ____  
+Year ____  
+Year ____ 
+ 
+11.  Income Tax returns for the preceding three  
+
+--- PAGE 4 ---
+
+Page 4 of 7 
+ 
+years period  
+Year ____ 
+Year ____  
+Year ____ 
+12.  Nature of company 
+DPSU, Private Limited, Public Limited, 
+Partnership, Proprietary, Ex- Serviceman Unit  
+ 
+13.  Category of industry 
+Large Scale, Medium Scale, Small Scale, 
+Micro, Startup 
+ 
+14.  MSME Registration No  
+15.  Certificates of registration as a 
+manufacturing unit, if any. 
+ 
+16.  If Startup, DPIIT Registration No  
+17.  UDYOG AADHAR No  
+18.  PAN Number  
+19.  Details of Industrial license for defence 
+manufacturing issued by DPIIT (if any) 
+ 
+20.  Details of PESO license (if any)  
+21.  GST Number  
+22.  Nature of business 
+Manufacturing/ Sole Selling or Authorized 
+Agent/ Assembler/ Traders/ Dealer/ Processor/ 
+Repacker/ Others  
+ 
+23.  Details of current products and services 
+Products and services Supplied (please specify 
+Govt/ Domestic market/ Export)  
+ 
+24.  Record of past performance 
+(e.g., Supply orders executed against of 
+Ministry of Defence orders, Public Sectors and 
+Paramilitary Forces, if any).  
+ 
+25.  Details of registration with 
+NSIC / SSI, DGS&D, other Defence 
+Department, other Govt. Dept, membership of 
+FICCI/ASSOCHAM/CII or other Industrial  
+Association 
+(Attach relevant copies of registration 
+letters) 
+ 
+26.  Have you already taken any technology from 
+DRDO (If yes, give details attachi ng separate 
+sheet) 
+ 
+Name of the Technology, Lab, Year, License 
+number & Status 
+ 
+27.  ISO/ ISI certification or any other 
+certification (If yes, give details)  
+ 
+28.  Relevant clearances form the authorities/ 
+ministries (if any) 
+ 
+29.  Capacity and capability to undertake 
+developmental work and to accept attendant 
+financial and commercial risks. 
+ 
+30.  Capacity/capability to market the product 
+through the marketing network, sales and 
+service network, reliability to maintain 
+confidentiality. 
+ 
+
+--- PAGE 5 ---
+
+Page 5 of 7 
+ 
+ 
+PART-2 
+Infrastructure and other Information 
+1.  Total area of factory  
+Covered (m2),  
+Uncovered (m2), 
+Bonded space available (m2) 
+ 
+2.  Ownership of factory 
+Self-owned, partnership, rental 
+ 
+3.  Electric power 
+Sanctioned 
+Installed 
+Standby (if any) 
+ 
+4.  Availability of adequate infrastructure  
+(List of machines and their production capacities) and 
+technical expertise 
+ 
+5.  Name of bank & A/c No Name of bank 
+A/c type 
+A/c no 
+Address of the bank  
+Phone:  
+Email: 
+ 
+ 
+6. Details of current products: 
+S.No Type Description Licensed/installed 
+capacity 
+Annual production for preceding 
+3 years 
+     
+      
+7. Details of foreign collaboration, if any 
+S.No Product Name and address of collaborator Year Remarks 
+     
+     
+ 
+8. Details of products developed for services 
+S.No Nomenclature of stores Order No. and date Remarks 
+    
+    
+ 
+9. Please give details of important facilities & infrastructure as per 
+following format for: 
+(a) Production 
+(b) Unconventional, special m/c 
+(c) Testing & quality control facilities  
+S.No Description of 
+m/c 
+Make & model Qty Date of 
+purchase 
+Remarks 
+      
+      
+ 
+10. Furnish  the following details with relevant certificates and documents 
+(a) R&D facilities available       : 
+(b) Inspection quality control of raw material components  : 
+
+--- PAGE 6 ---
+
+Page 6 of 7 
+ 
+(c) Assistance from central agency for testing / calibration etc. : 
+(d) laboratory and drawing office facility     : 
+11.  Principal customers: 
+S. No Name & address S.O No and 
+date 
+Date of last 
+supply 
+Products 
+supplied 
+Value 
+      
+      
+ 
+12. Future plans (if any) in respect of expansion programme/ installation of 
+additional machines/ test facilities etc. 
+13. Name of the technology requested for transfer 
+(give self-assessment of your capability to absorb the technology) 
+ 
+14. Details of employee as on date on firm’s pay roll 
+PERMANENT 
+Category Post Held Number Qualification Total Service 
+Technical Prod. Manager 
+Q.C. Manager 
+Supervisor 
+Testing Staff (QC) 
+Skilled workers 
+Unskilled workers, etc 
+   
+Administrative Purchase Manager 
+Accounts Officer  
+Office Superintendent 
+Clerical 
+Others, etc 
+   
+ 
+TEMPORARY 
+Category Post Held Number Qualification Total Service 
+Technical Prod. Manager 
+Q.C. Manager 
+Supervisor 
+Testing Staff (QC) 
+Skilled workers 
+Unskilled workers, etc 
+   
+Administrative Purchase Manager 
+Accounts Officer  
+Office Superintendent 
+Clerical 
+Others, etc 
+   
+ 
+DECLARATION: 
+I / we confirm that the information furnished in Part 1 & 2 above is correct. In the 
+event of any information given by me / us is found incorrect / false at any time, I / we 
+understand our EoI for ToT will be cancelled/ rejected without notice, beside any other 
+appropriate action against me / us. 
+ 
+Industry seal           Authorized signatory 
+Name(s) in capital 
+Designation and seal of authorized signatory 
+ 
+Date:   
+Place: 
+ 
+ 
+ 
+
+--- PAGE 7 ---
+
+Page 7 of 7 
+ 
+Annexure – I 
+List of Support documents to be attached with EoI 
+ 
+(a)  Memorandum and Articles of Association (Should be incorporat ed as per Indian 
+Companies Act, as amended time to time) 
+(b)  Certificates of registration as a manufacturing unit, if any. 
+(c)  Audited Balance Sheet for the preceding three years.  
+(d)  Income Tax returns for the preceding three year period  
+(e)  Details of shareholding/ownership pattern especially foreign partners/ shareholders, 
+foreign employees, directors, etc. The company must adhere to the prevailing Govt of 
+India policies and regulations on Foreign Direct Investment (FDI)/DIPP norms as 
+applicable.  
+(f)  Annual budget for R&D during last three years.  
+(g)  Numbers and details of IPR or patents, etc., held by the company. 
+(h)  Number of technically or professionally qualified personnel. 
+ (i)  Record of past performance (e.g., Supply orders executed aga inst of Ministry of 
+Defence orders, Public Sectors and Paramilitary Forces, if any).  
+(j)  Availability of adequate infrastructure (List of machines and their production capacities) 
+and technical expertise.  
+(k)  List of Testing and Support equipment’s 
+ (l)  ISO/ ISI certification or any other certification  
+(m)  Relevant clearances form the authorities/ ministries (if any) 
+(n)  Capacity and capability to undertake developmental work and to accept attendant 
+financial and commercial risks.  
+(o)  Capacity/capability to market the product through the marketing network, sales and 
+service network, reliability to maintain confidentiality. 
+(p)  PESO and DPIIT license for explosive handling if ToT is for high energy Material, 
+explosives, propellants, and component/ system dealing with it etc.  
+(q)  Under taking form company seeking ToT that none of its Directors, Independent 
+Directors, non -executive Directors, Key management personnel are involved in any 
+corrupt practices, unfair means and illegal activities. 
+(r)  Details of the industrials license for defence manufacturing be provided by the industry 
+seeking ToTs. 
+(s)  Application cum Industry Assessment Form

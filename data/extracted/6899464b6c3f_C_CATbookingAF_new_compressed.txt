@@ -1,0 +1,125 @@
+--- PAGE 1 ---
+
+Application for Booking the Services of C-CAT Centre, CEMILAC 
+1. Name of the Organization 
+Name of Contact Person 
+Address and Telephone Number and E -mail 
+id of the Contract Person & Organisation 
+4. | Name & Designation of People that Require 
+Entry to C-CAT 
+5. | Name of the Project 
+6. | Type of Analysis 
+7- | Tool Required (Optional) 
+If this is not mentioned, available tool __ 
+suitable for activities mentioned in para 6 
+will be allocated by the centre 
+8. | Duration (No. of Days) for Which the 
+Booking is Required 
+9. | RCMA/CEMILAC Person Involved in the 
+Airworthiness Certification of the 
+Item/LRU/System 
+10. | Confirmation Availability of all the Pre- Yes /No 
+requisite Information as per Annexure 1 
+11. | Prior Security Approval for Company Yes /No 
+Personnel to work in CEMILAC Premises has 
+been obtained or not? If yes provide the Ref: 
+Reference Number of Security Clearance 
+Letter 
+Undertaking by the Applicant 
+I, hereby undertake that the usage of C-CAT Centre for the Complex Electronics Hardware/Firmware 
+Verification & Validation is for the end use of the above Project only and if I get the permission from Chief 
+Executive (A), CEMILAC to use the facilities at CEMILAC premises, my team will abide by all the rules and 
+regulations and security instructions of CEMILAC. 
+I also declare that I take the full responsibility of the Analysis Results and indemnify CEMILAC and its 
+personnel from any legal consequences arising from the above work. 
+Signature of Applicant 
+Date: Name and Designation 
+For Office Use Only 
+Recommended / Not Recommended Security & Vigilance 
+RD/GD/Director GD (MS) 
+Time Slot Available ...........ccccseee RoR UE UNEP UE 
+Technology Director (C-CAT) 
+Approval by Chief Executive (A), CEMILAC 
+Approved / Not Approved 
+Chief Executive (A), CEMILAC 
+
+--- PAGE 2 ---
+
+Annexure 1 
+Pre-requisite Technical Information Essential for Complex Electronics 
+Hardware (CEH) Verification & Validation 
+Purpose Tool name Vendor Verno. | Pre-requisite 
+Requirement Analysis, Req Tracer Mentor 2022.3 As Per Appendix A or 
+Traceability to Test Graphics HRD, FRD, HTD (in .doc file 
+document format) 
+Code Simulation & Questa Sim Mentor 2022.3 Source Code 
+Debugging Graphics 
+Code Coverage Questa Sim Mentor 2022.3 Source Code 
+Graphics 
+Linting Analysis, Auto Check | Q-Verify Mentor 2022.3 Source Code 
+Compliance with DO-254 Graphics 
+Standard 
+Cover Check Q-Verify Mentor 2022.3 Source Code & Test Bench 
+Graphics 
+CDC Analysis Q-Verify Mentor 2022.3 Source Code & Test Bench 
+Graphics 
+Design & Validation of Vivado Xilinx 2022.2 Source code & Target Hardware 
+Module 
+
+--- PAGE 3 ---
+
+Appendix-A 
+A. Preliminary Data 
+a) System Safety Assessment (SSA) 
+b) Plan for Hardware Aspects of Certification (PHAC) 
+c) Function Requirement Specification (FRS) 
+B. Hardware Design Data 
+a) Hardware Requirements Document (HRD) 
+b) Hardware Design Representation Data (HDRD) 
+c) Conceptual Design Data (CDD) 
+d) Detailed Design Document (DDD) 
+e) Hardware/Software Interface Data (IRD) 
+C. Verification & Validation Data 
+a) Hardware Traceability Data (HTD) 
+b) Hardware Review & Analysis Procedure (HRAP) 
+c) Hardware Test Procedure (HTP) 
+CEH Certification-Stages of Involvement (SOT) 
+SOI-1: Hardware Plans 
+a) Plan for Hardware Aspects of Certification (PHAC) 
+b) Hardware Design Plan (HDP) 
+c) Hardware Verification & Validation Plan (HVVP) 
+d) Hardware Configuration Management Plan (HCMP) 
+e) Hardware Process Assurance Plan (HPAP) 
+f) Hardware Design Standards (HDS) 
+g) Hardware Requirement Standards (HRS) 
+h) Hardware Coding Standard (HCS) 
+i) Hardware Verification and Validation Standard (HVVS) 
+j) Hardware Archive standards (HAS) 
+
+--- PAGE 4 ---
+
+SOJI-2: Hardware Design Data 
+SOI-3: 
+a) Hardware Requirements (HRD) 
+b) Hardware Design Representation dataj(HDRD) 
+c) Conceptual Design Data (CDD) 
+d) Detailed Design Data (DDD) 
+e) Top-Level Drawing 
+f) Assembly Level Drawing 
+g) Installation Control Drawings 
+h) Hardware/Software Interface Data (IRD) 
+i) Tool Assessment Qualification Data (TAQD) 
+Verification & Validation Data 
+a) Hardware Traceability Data(HTD) 
+b) Hardware Review and analysis procedures(HRAP) 
+c) Hardware review and Analysis results(HRAR) 
+d) Hardware Test Procedures (HTP) 
+e) Hardware Test results (HTR) 
+f) Hardware Acceptance Test Criteria (HATC) 
+g) Tool Assessment and Qualification Data (TAQD) 
+SOI:4 Certification 
+a) Hardware configuration Management Records (HCMR) 
+b) Hardware Accomplishment Summary (HAS) 
+c) Hardware Environmental Configuration Index (HEC) 
+d) Hardware Process Assurance records(HPAR) 
+e) Hardware Configuration Index (HCI)
