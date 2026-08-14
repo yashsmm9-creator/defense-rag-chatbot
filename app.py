@@ -28,19 +28,18 @@ st.set_page_config(
 # and the NVIDIA completion call. Nothing here has changed.
 # ============================================================
 
-load_dotenv()
 
-api_key = os.getenv("NVIDIA_API_KEY")
 
-if not api_key:
-    st.error("NVIDIA_API_KEY not found in .env")
-    st.stop()
+# ============================================================
+# NVIDIA API
+# ============================================================
+
+api_key = st.secrets["NVIDIA_API_KEY"]
 
 client = OpenAI(
     base_url="https://integrate.api.nvidia.com/v1",
     api_key=api_key
 )
-
 
 @st.cache_resource
 def load_embeddings():
